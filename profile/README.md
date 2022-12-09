@@ -1,4 +1,4 @@
-<img src="./THAT ConferenceWordTree-cropped.svg" style="width:33%; margin:0 auto 40px auto; display:block;" />
+<img src="./THATConferenceWordTree-cropped.svg" style="width:33%; margin:0 auto 40px auto; display:block;" />
 
 # Welcome to THAT
 
