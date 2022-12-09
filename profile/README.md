@@ -1,4 +1,4 @@
-![THAT Conference community word tree logo](./THATConferenceWordTree.svg)
+<img src="./THAT ConferenceWordTree-cropped.svg" style="width:33%; margin:0 auto 40px auto; display:block;" />
 
 # Welcome to THAT
 
